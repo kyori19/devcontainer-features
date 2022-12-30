@@ -1,0 +1,10 @@
+{
+  "version": {
+    "image": "mcr.microsoft.com/devcontainers/java",
+    "features": {
+      "kotlin": {
+        "version": "1.7.10"
+      }
+    }
+  }
+}

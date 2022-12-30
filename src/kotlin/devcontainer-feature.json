@@ -1,0 +1,13 @@
+{
+    "name": "Kotlin",
+    "id": "kotlin",
+    "version": "1.0.0",
+    "description": "Install Kotlin CLI",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "",
+            "description": "Kotlin version to be installed"
+        }
+    }
+}

@@ -1,15 +1,13 @@
 
-# Hello, World! (hello)
+# Kotlin (kotlin)
 
-A hello world feature
+Install Kotlin CLI
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-starter/hello:1": {
-        "version": "latest"
-    }
+    "ghcr.io/kyori19/devcontainer-features/kotlin:1": {}
 }
 ```
 
@@ -17,10 +15,10 @@ A hello world feature
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
+| version | Kotlin version to be installed | string | - |
 
 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/feature-starter/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/kyori19/devcontainer-features/blob/main/src/kotlin/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
